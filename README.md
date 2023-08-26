@@ -1,2 +1,1 @@
-# mi_primer_repositorio
-Este en un repositorio para aprender a usar está tecnología. 
+Este proyecto es una prueba para poder aprender a usar está tecnologia 
